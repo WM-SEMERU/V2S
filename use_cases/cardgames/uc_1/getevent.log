@@ -1,0 +1,132 @@
+add device 1: /dev/input/event5
+  name:     "msm8974-taiko-mtp-snd-card Headset Jack"
+add device 2: /dev/input/event4
+  name:     "msm8974-taiko-mtp-snd-card Button Jack"
+add device 3: /dev/input/event3
+  name:     "hs_detect"
+add device 4: /dev/input/event1
+  name:     "touch_dev"
+add device 5: /dev/input/event0
+  name:     "qpnp_pon"
+add device 6: /dev/input/event2
+  name:     "gpio-keys"
+[    9828.825630] /dev/input/event1: 0003 0039 000002c1
+[    9828.825630] /dev/input/event1: 0003 0035 00000254
+[    9828.825630] /dev/input/event1: 0003 0036 000003dd
+[    9828.825630] /dev/input/event1: 0003 003a 00000033
+[    9828.825630] /dev/input/event1: 0003 0030 00000005
+[    9828.825630] /dev/input/event1: 0000 0000 00000000
+[    9828.891820] /dev/input/event1: 0003 0036 000003dc
+[    9828.891820] /dev/input/event1: 0000 0000 00000000
+[    9828.900191] /dev/input/event1: 0003 0039 ffffffff
+[    9828.900191] /dev/input/event1: 0000 0000 00000000
+[    9830.556432] /dev/input/event1: 0003 0039 000002c2
+[    9830.556432] /dev/input/event1: 0003 0035 00000219
+[    9830.556432] /dev/input/event1: 0003 0036 0000053c
+[    9830.556432] /dev/input/event1: 0003 003a 00000030
+[    9830.556432] /dev/input/event1: 0003 0030 00000004
+[    9830.556432] /dev/input/event1: 0000 0000 00000000
+[    9830.614293] /dev/input/event1: 0003 0039 ffffffff
+[    9830.614293] /dev/input/event1: 0000 0000 00000000
+[    9831.518014] /dev/input/event1: 0003 0039 000002c3
+[    9831.518014] /dev/input/event1: 0003 0035 000001fd
+[    9831.518014] /dev/input/event1: 0003 0036 000004f0
+[    9831.518014] /dev/input/event1: 0003 0030 00000005
+[    9831.518014] /dev/input/event1: 0000 0000 00000000
+[    9831.567559] /dev/input/event1: 0003 0039 ffffffff
+[    9831.567559] /dev/input/event1: 0000 0000 00000000
+[    9831.769049] /dev/input/event1: 0003 0039 000002c4
+[    9831.769049] /dev/input/event1: 0003 0035 0000010e
+[    9831.769049] /dev/input/event1: 0003 0036 000004f2
+[    9831.769049] /dev/input/event1: 0003 003a 0000002f
+[    9831.769049] /dev/input/event1: 0003 0030 00000004
+[    9831.769049] /dev/input/event1: 0000 0000 00000000
+[    9831.869347] /dev/input/event1: 0003 0035 0000010d
+[    9831.869347] /dev/input/event1: 0003 003a 00000033
+[    9831.869347] /dev/input/event1: 0000 0000 00000000
+[    9831.877125] /dev/input/event1: 0003 0035 0000010c
+[    9831.877125] /dev/input/event1: 0003 003a 00000032
+[    9831.877125] /dev/input/event1: 0000 0000 00000000
+[    9831.885445] /dev/input/event1: 0003 0039 ffffffff
+[    9831.885445] /dev/input/event1: 0000 0000 00000000
+[    9832.078499] /dev/input/event1: 0003 0039 000002c5
+[    9832.078499] /dev/input/event1: 0003 0035 000000d0
+[    9832.078499] /dev/input/event1: 0003 0036 00000582
+[    9832.078499] /dev/input/event1: 0003 003a 0000002d
+[    9832.078499] /dev/input/event1: 0000 0000 00000000
+[    9832.153810] /dev/input/event1: 0003 0035 000000cf
+[    9832.153810] /dev/input/event1: 0003 003a 0000002f
+[    9832.153810] /dev/input/event1: 0000 0000 00000000
+[    9832.162164] /dev/input/event1: 0003 0035 000000ce
+[    9832.162164] /dev/input/event1: 0003 003a 00000031
+[    9832.162164] /dev/input/event1: 0000 0000 00000000
+[    9832.170501] /dev/input/event1: 0003 0035 000000cd
+[    9832.170501] /dev/input/event1: 0000 0000 00000000
+[    9832.187151] /dev/input/event1: 0003 0035 000000cc
+[    9832.187151] /dev/input/event1: 0000 0000 00000000
+[    9832.194975] /dev/input/event1: 0003 0035 000000cb
+[    9832.194975] /dev/input/event1: 0003 003a 00000030
+[    9832.194975] /dev/input/event1: 0000 0000 00000000
+[    9832.203294] /dev/input/event1: 0003 0039 ffffffff
+[    9832.203294] /dev/input/event1: 0000 0000 00000000
+[    9832.287674] /dev/input/event1: 0003 0039 000002c6
+[    9832.287674] /dev/input/event1: 0003 0035 000001e7
+[    9832.287674] /dev/input/event1: 0003 0036 000004f3
+[    9832.287674] /dev/input/event1: 0003 003a 00000032
+[    9832.287674] /dev/input/event1: 0003 0030 00000005
+[    9832.287674] /dev/input/event1: 0000 0000 00000000
+[    9832.337272] /dev/input/event1: 0003 0039 ffffffff
+[    9832.337272] /dev/input/event1: 0000 0000 00000000
+[    9832.547033] /dev/input/event1: 0003 0039 000002c7
+[    9832.547033] /dev/input/event1: 0003 0035 00000106
+[    9832.547033] /dev/input/event1: 0003 0036 000004f2
+[    9832.547033] /dev/input/event1: 0003 003a 00000030
+[    9832.547033] /dev/input/event1: 0003 0030 00000004
+[    9832.547033] /dev/input/event1: 0000 0000 00000000
+[    9832.663447] /dev/input/event1: 0003 0039 ffffffff
+[    9832.663447] /dev/input/event1: 0000 0000 00000000
+[    9832.873292] /dev/input/event1: 0003 0039 000002c8
+[    9832.873292] /dev/input/event1: 0003 0035 00000171
+[    9832.873292] /dev/input/event1: 0003 0036 000004cf
+[    9832.873292] /dev/input/event1: 0003 003a 00000032
+[    9832.873292] /dev/input/event1: 0003 0030 00000005
+[    9832.873292] /dev/input/event1: 0000 0000 00000000
+[    9832.947924] /dev/input/event1: 0003 0035 00000170
+[    9832.947924] /dev/input/event1: 0003 0036 000004ce
+[    9832.947924] /dev/input/event1: 0000 0000 00000000
+[    9832.956194] /dev/input/event1: 0003 0039 ffffffff
+[    9832.956194] /dev/input/event1: 0000 0000 00000000
+[    9833.492177] /dev/input/event1: 0003 0039 000002c9
+[    9833.492177] /dev/input/event1: 0003 0035 000003c1
+[    9833.492177] /dev/input/event1: 0003 0036 000003b5
+[    9833.492177] /dev/input/event1: 0003 003a 0000002e
+[    9833.492177] /dev/input/event1: 0003 0030 00000004
+[    9833.492177] /dev/input/event1: 0000 0000 00000000
+[    9833.516714] /dev/input/event1: 0003 0039 ffffffff
+[    9833.516714] /dev/input/event1: 0000 0000 00000000
+[    9834.645881] /dev/input/event1: 0003 0039 000002ca
+[    9834.645881] /dev/input/event1: 0003 0035 000003fd
+[    9834.645881] /dev/input/event1: 0003 0036 0000068d
+[    9834.645881] /dev/input/event1: 0003 003a 0000001f
+[    9834.645881] /dev/input/event1: 0003 0030 00000003
+[    9834.645881] /dev/input/event1: 0000 0000 00000000
+[    9834.687207] /dev/input/event1: 0003 0036 0000068c
+[    9834.687207] /dev/input/event1: 0003 003a 00000017
+[    9834.687207] /dev/input/event1: 0000 0000 00000000
+[    9834.695471] /dev/input/event1: 0003 0039 ffffffff
+[    9834.695471] /dev/input/event1: 0000 0000 00000000
+[    9836.050133] /dev/input/event1: 0003 0039 000002cb
+[    9836.050133] /dev/input/event1: 0003 0035 000003c8
+[    9836.050133] /dev/input/event1: 0003 0036 000006b0
+[    9836.050133] /dev/input/event1: 0003 003a 00000020
+[    9836.050133] /dev/input/event1: 0003 0030 00000004
+[    9836.050133] /dev/input/event1: 0000 0000 00000000
+[    9836.141593] /dev/input/event1: 0003 0039 ffffffff
+[    9836.141593] /dev/input/event1: 0000 0000 00000000
+[    9838.231486] /dev/input/event1: 0003 0039 000002cc
+[    9838.231486] /dev/input/event1: 0003 0035 0000031b
+[    9838.231486] /dev/input/event1: 0003 0036 000006c5
+[    9838.231486] /dev/input/event1: 0003 003a 0000002c
+[    9838.231486] /dev/input/event1: 0000 0000 00000000
+[    9838.289335] /dev/input/event1: 0003 0039 ffffffff
+[    9838.289335] /dev/input/event1: 0000 0000 00000000

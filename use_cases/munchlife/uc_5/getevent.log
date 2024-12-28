@@ -1,0 +1,43 @@
+add device 1: /dev/input/event5
+  name:     "msm8974-taiko-mtp-snd-card Headset Jack"
+add device 2: /dev/input/event4
+  name:     "msm8974-taiko-mtp-snd-card Button Jack"
+add device 3: /dev/input/event3
+  name:     "hs_detect"
+add device 4: /dev/input/event1
+  name:     "touch_dev"
+add device 5: /dev/input/event0
+  name:     "qpnp_pon"
+add device 6: /dev/input/event2
+  name:     "gpio-keys"
+[   10551.176374] /dev/input/event1: 0003 0039 00000379
+[   10551.176374] /dev/input/event1: 0003 0035 00000405
+[   10551.176374] /dev/input/event1: 0003 0036 00000092
+[   10551.176374] /dev/input/event1: 0000 0000 00000000
+[   10551.243072] /dev/input/event1: 0003 0035 00000404
+[   10551.243072] /dev/input/event1: 0003 003a 00000030
+[   10551.243072] /dev/input/event1: 0003 0030 00000005
+[   10551.243072] /dev/input/event1: 0000 0000 00000000
+[   10551.251376] /dev/input/event1: 0003 0035 00000403
+[   10551.251376] /dev/input/event1: 0003 0036 00000091
+[   10551.251376] /dev/input/event1: 0003 003a 0000002f
+[   10551.251376] /dev/input/event1: 0000 0000 00000000
+[   10551.267505] /dev/input/event1: 0003 0039 ffffffff
+[   10551.267505] /dev/input/event1: 0000 0000 00000000
+[   10552.471719] /dev/input/event1: 0003 0039 0000037a
+[   10552.471719] /dev/input/event1: 0003 0035 000002dd
+[   10552.471719] /dev/input/event1: 0003 0036 00000128
+[   10552.471719] /dev/input/event1: 0003 0030 00000004
+[   10552.471719] /dev/input/event1: 0000 0000 00000000
+[   10552.546273] /dev/input/event1: 0003 0036 00000127
+[   10552.546273] /dev/input/event1: 0003 003a 00000030
+[   10552.546273] /dev/input/event1: 0000 0000 00000000
+[   10552.554558] /dev/input/event1: 0003 0039 ffffffff
+[   10552.554558] /dev/input/event1: 0000 0000 00000000
+[   10553.967654] /dev/input/event1: 0003 0039 0000037b
+[   10553.967654] /dev/input/event1: 0003 0035 000000c4
+[   10553.967654] /dev/input/event1: 0003 0036 00000420
+[   10553.967654] /dev/input/event1: 0003 003a 0000002e
+[   10553.967654] /dev/input/event1: 0000 0000 00000000
+[   10554.050575] /dev/input/event1: 0003 0039 ffffffff
+[   10554.050575] /dev/input/event1: 0000 0000 00000000

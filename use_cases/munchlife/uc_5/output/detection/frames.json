@@ -1,0 +1,326 @@
+[
+  {
+    "screenId": 20,
+    "screenTaps": [
+      {
+        "x": 1029.5,
+        "y": 146.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 21,
+    "screenTaps": [
+      {
+        "x": 1029.5,
+        "y": 146.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 22,
+    "screenTaps": [
+      {
+        "x": 1028.0,
+        "y": 145.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 23,
+    "screenTaps": [
+      {
+        "x": 1027.5,
+        "y": 145.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 24,
+    "screenTaps": [
+      {
+        "x": 1027.0,
+        "y": 145.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 25,
+    "screenTaps": [
+      {
+        "x": 1026.5,
+        "y": 144.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 26,
+    "screenTaps": [
+      {
+        "x": 1026.5,
+        "y": 144.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 27,
+    "screenTaps": [
+      {
+        "x": 1026.5,
+        "y": 144.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 59,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 297.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 60,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 297.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 61,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 296.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 62,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 296.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 63,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 297.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 64,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 297.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 65,
+    "screenTaps": [
+      {
+        "x": 733.0,
+        "y": 297.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 66,
+    "screenTaps": [
+      {
+        "x": 734.0,
+        "y": 297.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 67,
+    "screenTaps": [
+      {
+        "x": 734.0,
+        "y": 297.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 104,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 105,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 106,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 107,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 108,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 109,
+    "screenTaps": [
+      {
+        "x": 197.0,
+        "y": 1058.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 110,
+    "screenTaps": [
+      {
+        "x": 197.0,
+        "y": 1059.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 111,
+    "screenTaps": [
+      {
+        "x": 196.0,
+        "y": 1060.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 112,
+    "screenTaps": [
+      {
+        "x": 195.5,
+        "y": 1059.5,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  {
+    "screenId": 113,
+    "screenTaps": [
+      {
+        "x": 194.0,
+        "y": 1060.0,
+        "mjAxis": 0.0,
+        "mnAxis": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  }
+]
